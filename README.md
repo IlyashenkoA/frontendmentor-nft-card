@@ -12,8 +12,6 @@
 
 ## About The Project
 
-Tic Tac Toe is a game in which you can play alone against the Minimax algorithm or together on the same device. If the game has not been completed and closed, it will always be possible to return to it, since the data is stored in localStorage.
-
 <br />
 
 <img src="https://i.ibb.co/X8pHTFW/2023-05-08-111343.png" />
