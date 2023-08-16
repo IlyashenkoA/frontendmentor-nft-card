@@ -11,7 +11,7 @@
 </p>
 
 ## About The Project
-
+NFT card - a concise UI presentation that highlights the essence of each digital creation. Featuring the NFT's name, description, price, remaining time, and creator, this card offers a clear snapshot of the artwork's uniqueness.
 <br />
 
 <img src="https://i.ibb.co/X8pHTFW/2023-05-08-111343.png" />
